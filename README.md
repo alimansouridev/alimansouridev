@@ -1,6 +1,6 @@
 👩‍💻 About Me
 
-Im currently in highschool, in Canada
+Im currently in highschool, Canada
 
 - 🔭 I’m working to become a software engineer
 - 📚 Currently working/studying 
