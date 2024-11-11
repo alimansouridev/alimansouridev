@@ -2,7 +2,7 @@
 
 Im currently in highschool, Canada
 
-- 🔭 I’m working to become a software engineer
+- 🔭 I’m working to become an engineer
 - 📚 Currently working/studying 
 - ⚡ In my free time I work on several projects built to improve someone's workflow or life!
 
